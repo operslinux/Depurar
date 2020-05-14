@@ -35,6 +35,9 @@ $ git clone https://github.com/operslinux/Depurar.git
 ```
 $ cd Depurar
 ```
+```
+$sudo chmod +x run.py
+```
 
 # [ Setup ]
 ```

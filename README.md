@@ -21,6 +21,10 @@ Este es un pequeño script muy sencillo para poder automatizar y depurar los cor
 ```
 
 <a href="https://ibb.co/Dgqvs7d"><img src="https://i.ibb.co/LhGcbCK/depurar.png" alt="depurar" border="0"></a>
+```
+Kali LInux
+Parrot OS
+```
 
 # [Instalacion]
 ```
